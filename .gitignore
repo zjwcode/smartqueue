@@ -1,0 +1,5 @@
+# ignore .project build by eclipse.
+.project
+*.obj
+*.exe
+
